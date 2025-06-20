@@ -10,11 +10,11 @@
 }
 
 :root {
-    --bg-color: #1f242d;
-    --second-bg-color: #323946;
-    --text-color: #fff;
-    --main-color: #0ef;
-    --box-color: rgb(38, 102, 107);
+      --bg-color: linear-gradient(to bottom right, #62393c, #10011f);    
+    --second-bg-color: #391052;   
+    --text-color: #ffffff;        
+    --main-color: #a259ff;       
+    --box-color: #5d2c91;  
 
 }
 
@@ -121,8 +121,7 @@ span {
 }
 
 .home-content p {
-    font-size: 1.5rem;
-
+    font-size: 2.2rem;
 }
 
 .social-Media a {
